@@ -29,5 +29,4 @@ in the manuscript.
 The DarkWrt testbed embeds working hidden functionality and is shared with vetted
 researchers on request. To request access, email <ynugr-darkwrt@ynu.ac.jp> with
 (1) your institutional affiliation and (2) a statement of your intended research
-purpose. Access is governed by terms equivalent to a non-disclosure agreement that
-prohibit redistribution and any use outside research.
+purpose. 
