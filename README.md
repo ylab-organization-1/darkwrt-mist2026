@@ -2,8 +2,8 @@
 
 This repository holds the supplementary material for:
 
-> **DarkWrt: A Router Firmware Testbed for Hidden Functionality Detection.**
 > Daichi Uezono, Misato Ito, Satoshi Hara, Takayuki Sasaki, and Katsunari Yoshioka.
+> **DarkWrt: A Router Firmware Testbed for Hidden Functionality Detection.**
 
 For the project itself — what DarkWrt is, and how to request access — see the main
 repository: **https://github.com/ylab-organization-1/darkwrt**
@@ -12,9 +12,12 @@ repository: **https://github.com/ylab-organization-1/darkwrt**
 
 | File | Contents |
 | --- | --- |
-| [`case-study.md`](case-study.md) | The 23 cases of Table 1: collection procedure and criteria, per-case sources, category assignments, and tier distribution |
-| [`evaluation.md`](evaluation.md) | Coverage analysis, tool selection and run configuration, the scoring rubric, the mechanism-level findings behind Section 5.2, and the ROSA and emulation experiments of Appendix C |
+| [`case-study.md`](case-study.md) | The collection procedure and criteria for the case study, and the public sources for each of the 23 cases of Table 1 |
 | [`detection-matrix.md`](detection-matrix.md) | Per-cell justifications for the detection outcomes of Table 4 |
+
+The paper is self-contained; these two files carry only what it defers here. Tool
+selection, run configuration, and the mechanisms behind the detection results are in
+Appendices A, B, and C of the paper itself.
 
 ## Scope
 
@@ -26,4 +29,5 @@ in the manuscript.
 The DarkWrt testbed embeds working hidden functionality and is shared with vetted
 researchers on request. To request access, email <ynugr-darkwrt@ynu.ac.jp> with
 (1) your institutional affiliation and (2) a statement of your intended research
-purpose.
+purpose. Access is governed by terms equivalent to a non-disclosure agreement that
+prohibit redistribution and any use outside research.
