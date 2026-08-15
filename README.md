@@ -3,6 +3,7 @@
 This repository holds the supplementary material for:
 
 > Daichi Uezono, Misato Ito, Satoshi Hara, Takayuki Sasaki, and Katsunari Yoshioka.
+
 > **DarkWrt: A Router Firmware Testbed for Hidden Functionality Detection.**
 
 For the project itself — what DarkWrt is, and how to request access — see the main
