@@ -30,13 +30,13 @@ two it is, since a tool author would act on them differently:
 
 The other levels are *reconstructed* (the malicious behavior itself was recovered) and
 *identified* (the responsible artifact was flagged), both mapping to ●, and
-*out-of-scope*, mapping to –. Three cells (F2, F13, F15 under EMBA static) are left
-unlabelled, as the finer grade could not be settled from the recorded output; they are
-● / ○ / – graded like every other cell. *Surfaced* maps to ○ rather than ●: an artifact listed
+*out-of-scope*, mapping to –. *Surfaced* maps to ○ rather than ●: an artifact listed
 among hundreds of benign ones, with nothing marking it out, does not lead an analyst
-to the implant. As a check, the finer counts were EMBA 0 reconstructed / 1 identified
-/ 8 surfaced / 5 examined-missed / 1 out-of-scope and FACT 2 / 5 / 1 / 7 / 0, which
-reduce to the 1 ● / 13 ○ / 1 – and 7 ● / 8 ○ / 0 – of Table 4.
+to the implant. Three cells (F2, F13, F15 under EMBA static) are left unlabelled, as
+the finer grade could not be settled from the recorded output; they are ● / ○ / –
+graded like every other cell. As a check, the finer counts were EMBA 0 reconstructed
+/ 1 identified / 8 surfaced / 5 examined-missed / 1 out-of-scope and FACT 2 / 5 / 1 /
+7 / 0, which reduce to the 1 ● / 13 ○ / 1 – and 7 ● / 8 ○ / 0 – of Table 4.
 
 **The emulation column has its own two conditions**, also labelled below: *trace
 observed, origin unconfirmed*, where a related process was seen executing but could
