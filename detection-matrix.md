@@ -34,8 +34,7 @@ The other levels are *reconstructed* (the malicious behavior itself was recovere
 among hundreds of benign ones, with nothing marking it out, does not lead an analyst
 to the implant. Three cells (F2, F13, F15 under EMBA static) are left unlabelled, as
 the finer grade could not be settled from the recorded output; they are ● / ○ / –
-graded like every other cell. As a check, the finer counts were EMBA 0 reconstructed
-/ 1 identified / 8 surfaced / 5 examined-missed / 1 out-of-scope and FACT 2 / 5 / 1 /
+graded like every other cell. As a check, the finer counts were EMBA 0 reconstructed / 1 identified / 8 surfaced / 5 examined-missed / 1 out-of-scope and FACT 2 / 5 / 1 /
 7 / 0, which reduce to the 1 ● / 13 ○ / 1 – and 7 ● / 8 ○ / 0 – of Table 4.
 
 **The emulation column has its own two conditions**, also labelled below: *trace
